@@ -4,11 +4,9 @@
 
 **AFG Software Storm Academy** is an educational project designed for those who want to learn basic web technologies like HTML, CSS, and JavaScript. This project provides step-by-step guides, examples, and visuals, especially for beginners.
 
-## Demo:afg_html_new.gif
+## Demo:ScreenShot:
 
-![Uploading afg html lessons new.gif…]()
-
-
+![](afg_html_new.gif)
 
 ## 🚀 Features
 
@@ -38,5 +36,8 @@ To run the project on your computer:
 
 ## 💡 Thanks :)
 
+# -AFG-Software-Storm-Academy-
+
+# -AFG-Software-Storm-Academy-
 # -AFG-Software-Storm-Academy-
 # -AFG-Software-Storm-Academy-
