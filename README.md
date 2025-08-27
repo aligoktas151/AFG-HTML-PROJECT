@@ -42,3 +42,4 @@ To run the project on your computer:
 # -AFG-Software-Storm-Academy-
 # -AFG-Software-Storm-Academy-
 # -AFG-Software-Storm-Academy-
+# AFG-HTML-PROJECT
