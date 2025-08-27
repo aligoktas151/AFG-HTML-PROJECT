@@ -37,9 +37,7 @@ To run the project on your computer:
 ## 💡 Thanks :)
 
 # -AFG-Software-Storm-Academy-
-
-# -AFG-Software-Storm-Academy-
-# -AFG-Software-Storm-Academy-
-# -AFG-Software-Storm-Academy-
-# -AFG-Software-Storm-Academy-
 # AFG-HTML-PROJECT
+#Reach to me:
+Instagram:gokt.as79
+E-mail:Goktas15179@gmail.com 🤩😍🥳
